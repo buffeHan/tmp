@@ -5,3 +5,5 @@ third edit version
 Git tracks changes.of files.
 
 分支修改
+
+master 修改如下：Creating a new branch is quick & simple.
