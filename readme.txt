@@ -4,6 +4,3 @@ third edit version
 第四次提交，并新增一个文件
 Git tracks changes.of files.
 
-merg
-e
-master update
